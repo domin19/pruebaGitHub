@@ -1,0 +1,41 @@
+*{
+    font-size: x-small;
+}
+
+#cabecera{
+    background-color:red; 
+    padding-top: 10px; 
+    border: 1px solid black;
+}
+
+#naranja{
+    background-color:orange; 
+    padding-top: 10px; 
+    border: 1px solid black;
+}
+
+#celeste, #pie{
+    background-color:cyan; 
+    padding-top: 10px; 
+    border: 1px solid black;
+}
+
+#amarillo1, #amarillo2{
+    background-color:yellow; 
+    border: 1px solid black;
+}
+
+#verde1, #verde2{
+    background-color:green; 
+    border: 1px solid black;
+}
+
+#morado1, #morado2{
+    background-color:purple; 
+    border: 1px solid black;
+}
+
+#gris{
+    background-color:grey; 
+    border: 1px solid black;
+}
